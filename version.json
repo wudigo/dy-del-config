@@ -1,7 +1,7 @@
 {
-  "latestVersionCode": 11,
-  "latestVersionName": "1.1",
+  "latestVersionCode": 10,
+  "latestVersionName": "1.0",
   "minSupportedVersionCode": 10,
-  "notice": "发现新版本测试",
+  "notice": "首个正式版：一键清空抖音「发出的评论」，删空自动停",
   "downloadUrl": "https://pan.quark.cn/s/dfbbc041a6f3"
 }
