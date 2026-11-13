@@ -1,7 +1,7 @@
 {
   "latestVersionCode": 10,
   "latestVersionName": "1.0",
-  "minSupportedVersionCode": 10,
-  "notice": "首个正式版，支持自动清理抖音发出的评论",
+  "minSupportedVersionCode": 999,
+  "notice": "测试强制更新页",
   "downloadUrl": "https://cdn.jsdelivr.net/gh/wudigo/dy-del-config@main/download.html"
 }
