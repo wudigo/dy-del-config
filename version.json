@@ -1,7 +1,7 @@
 {
-  "latestVersionCode": 22,
+  "latestVersionCode": 23,
   "latestVersionName": "1.1",
   "minSupportedVersionCode": 10,
-  "notice": "删除结果改到下一轮一并确认，速度再快一点；长按按系统阈值自动适配",
+  "notice": "修正行识别（同一行不再算成两行），删除结果下一轮确认",
   "downloadUrl": "https://pan.quark.cn/s/dfbbc041a6f3"
 }
