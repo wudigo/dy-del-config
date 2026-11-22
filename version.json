@@ -1,7 +1,7 @@
 {
-  "latestVersionCode": 23,
+  "latestVersionCode": 24,
   "latestVersionName": "1.1",
   "minSupportedVersionCode": 10,
-  "notice": "修正行识别（同一行不再算成两行），删除结果下一轮确认",
+  "notice": "修正上滑动画期间按错行的问题（删完等布局稳定再动手）",
   "downloadUrl": "https://pan.quark.cn/s/dfbbc041a6f3"
 }
