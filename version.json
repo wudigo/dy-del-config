@@ -1,7 +1,7 @@
 {
-  "latestVersionCode": 24,
+  "latestVersionCode": 25,
   "latestVersionName": "1.1",
   "minSupportedVersionCode": 10,
-  "notice": "修正上滑动画期间按错行的问题（删完等布局稳定再动手）",
+  "notice": "按行紧贴判定布局是否稳定，彻底修正删错行的问题",
   "downloadUrl": "https://pan.quark.cn/s/dfbbc041a6f3"
 }
