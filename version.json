@@ -1,7 +1,7 @@
 {
-  "latestVersionCode": 20,
+  "latestVersionCode": 21,
   "latestVersionName": "1.1",
   "minSupportedVersionCode": 10,
-  "notice": "修复删最后一条时误点顶部标签的问题，速度提升三倍",
+  "notice": "修复误点顶部标签；长按按系统阈值自动适配，速度提升三倍",
   "downloadUrl": "https://pan.quark.cn/s/dfbbc041a6f3"
 }
