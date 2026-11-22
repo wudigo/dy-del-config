@@ -1,7 +1,7 @@
 {
-  "latestVersionCode": 11,
+  "latestVersionCode": 12,
   "latestVersionName": "1.1",
-  "minSupportedVersionCode": 11,
-  "notice": "1.1：提速约 3 倍（单条约 1 秒），并避开顶部通知遮挡、被通知点走后自动返回",
+  "minSupportedVersionCode": 12,
+  "notice": "1.1：单条约 1 秒（提速约 3 倍），避开顶部通知遮挡，被通知点走后自动返回；已停用 1.0",
   "downloadUrl": "https://pan.quark.cn/s/dfbbc041a6f3"
 }
