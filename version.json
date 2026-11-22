@@ -1,7 +1,7 @@
 {
-  "latestVersionCode": 25,
+  "latestVersionCode": 26,
   "latestVersionName": "1.1",
   "minSupportedVersionCode": 10,
-  "notice": "按行紧贴判定布局是否稳定，彻底修正删错行的问题",
+  "notice": "删除顺序彻底修好（按行紧贴判定布局稳定），速度回到约1.3秒/条",
   "downloadUrl": "https://pan.quark.cn/s/dfbbc041a6f3"
 }
