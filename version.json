@@ -1,7 +1,7 @@
 {
-  "latestVersionCode": 18,
+  "latestVersionCode": 19,
   "latestVersionName": "1.1",
   "minSupportedVersionCode": 10,
-  "notice": "速度提升三倍，当前版本即将停用，前往下载最新版",
+  "notice": "修复长按被当成单击（会跳进视频页）的问题，速度提升三倍",
   "downloadUrl": "https://pan.quark.cn/s/dfbbc041a6f3"
 }
