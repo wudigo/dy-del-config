@@ -2,6 +2,6 @@
   "latestVersionCode": 14,
   "latestVersionName": "1.1",
   "minSupportedVersionCode": 10,
-  "notice": "1.1：单条约 0.8 秒（长按 500ms + 弹窗消失即走）；从第 2 条开始删、顶部那条留最后，避开通知遮挡；被通知点走后自动返回；点偏进视频页会自动退回。1.0 仍可继续使用",
+  "notice": "速度提升三倍，当前版本即将停用，前往下载最新版",
   "downloadUrl": "https://pan.quark.cn/s/dfbbc041a6f3"
 }
