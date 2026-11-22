@@ -1,7 +1,7 @@
 {
-  "latestVersionCode": 38,
+  "latestVersionCode": 52,
   "latestVersionName": "1.1",
-  "minSupportedVersionCode": 38,
-  "notice": "改成直接对评论行发无障碍动作：不再按坐标，彻底不会再跳进视频页或新关注我的；速度约0.9秒/条",
+  "minSupportedVersionCode": 52,
+  "notice": "修好了抖音弹窗的新行为：改成点下去立刻点、没生效就重试，速度回到约1秒/条；新增运行中随时可停——界面「■ 停止清理」+ 抖音右下角悬浮玻璃圆按钮（可拖动）",
   "downloadUrl": "https://pan.quark.cn/s/dfbbc041a6f3"
 }
