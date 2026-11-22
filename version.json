@@ -1,7 +1,7 @@
 {
-  "latestVersionCode": 10,
-  "latestVersionName": "1.0",
-  "minSupportedVersionCode": 10,
-  "notice": "首个正式版：一键清空抖音「发出的评论」，删空自动停",
+  "latestVersionCode": 11,
+  "latestVersionName": "1.1",
+  "minSupportedVersionCode": 11,
+  "notice": "1.1：提速约 3 倍（单条约 1 秒），并避开顶部通知遮挡、被通知点走后自动返回",
   "downloadUrl": "https://pan.quark.cn/s/dfbbc041a6f3"
 }
